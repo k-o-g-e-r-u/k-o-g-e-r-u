@@ -18,7 +18,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 * **Discord**: pa_pa_pa_paranoia
 
 <div align="center">
-<h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/U2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a></h1>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/U2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 ###
