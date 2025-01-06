@@ -68,6 +68,6 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-> Obs: Talvez possa parecer suspeito mas eu não ofereço nenhum tipo de serviço ilegal e desensentivo atos que infligem a legislação de nosso país.
+> Obs: Talvez possa parecer suspeito mas eu não ofereço nenhum tipo de serviço ilegal e desencentivo atos que infligem a legislação de nosso país.
 <hr>
 </div>
