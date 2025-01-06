@@ -1,15 +1,6 @@
-<style>
-    body {
-        background-color: #000; 
-    }
-    .title {
-        text-align: center;
-    }
-</style>
-
 <div class="content">
  
-<div class="title">
+<div align="center">
     <a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/S09HRVJV/zerowax.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Cyberpunk fonts"></a>
     <hr>
 </div>
@@ -27,7 +18,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 * **BTC**:
 * **Discord**: 
 
-<div class="title">
+<div align="center">
 <a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/U2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a>
 <hr>
 </div>
