@@ -7,7 +7,7 @@
 Um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração das mesmas. Atualmente eu estou em ínicio de carreira e pretendo oferecer por hora meus serviços como freelancer de desenvolvimento de sites e de correção de possíveis vulnerabilidades.
 
 Para a preservação da minha privacidade eu estou aceitando apenas **satoshis** como forma de pagamento, mas
-caso você não tenha como comprar satoshis como pagamento, poderemos negociar uma transição via pix.
+caso você não tenha como comprar satoshis, poderemos negociar uma transição via pix.
 
 E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o link do meu site com os meus projetos e os meus artigos junto de mais algumas informações.
 
