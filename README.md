@@ -1,8 +1,7 @@
 <div class="content">
  
 <div align="center">
-    <a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/S09HRVJV/zerowax.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Cyberpunk fonts"></a>
-    <hr>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/S09HRVJV/zerowax.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 Eu sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração da mesma, atualmente eu estou em ínicio de 
@@ -19,13 +18,12 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 * **Discord**: 
 
 <div align="center">
-<a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/U2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a>
-<hr>
+<h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/U2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 ###
 
-<img align="right" width="620" height="745" src="banner.jpg"/>
+<img align="right" width="620" height="645" src="banner.jpg"/>
 
 ###
 
@@ -71,8 +69,10 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 </div>
 
 ###
+
 <hr>
 
+###
 > Obs: Talvez possa parecer suspeito mas eu não ofereço nenhum tipo de serviço ilegal e desensentivo atos que infligem a legislação de nosso país.
 <hr>
 </div>
