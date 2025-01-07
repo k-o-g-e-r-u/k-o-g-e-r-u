@@ -22,22 +22,25 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<img align="right" height="710" height="745" src="banner.jpg"/>
+<img align="right" height="850" height="745" src="banner.jpg"/>
 
 ###
 
 <div align="center">
   <h3>Web</h3>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 ###
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/Shell_Script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"><br>
+  <h3>Languages</h3> 
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white">
 </div>
@@ -46,8 +49,8 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 <div align="center">
   <h3>OS</h3>
-  <img src="https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=arch-linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 
@@ -55,8 +58,8 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 <div align="center">
   <h3>IDE'S</h3>
-  <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
+   <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white">
 </div>
 
 ###
@@ -64,7 +67,8 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 <div align="center">
   <h3>Social</h3>
   <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Bitcoin-black?style=for-the-badge&logo=bitcoin&logoColor=white">
 </div>
 
 ###
