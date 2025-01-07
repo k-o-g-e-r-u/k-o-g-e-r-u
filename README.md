@@ -26,17 +26,19 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<div align="left">
+<div align="center">
   <h3>Web</h3>
+  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
+  
+  
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <h3>Languages</h3> 
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
@@ -45,27 +47,27 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ####
 
-<div align="left">
+<div align="center">
   <h3>OS</h3>
-  <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <h3>IDE'S</h3>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
  <h3>Social</h3>
- <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
 </div>
 
 ###
