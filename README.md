@@ -22,14 +22,13 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<img align="right" height="790" src="banner.jpg"/>
+<img align="right" height="750" src="banner.jpg"/>
 
 ###
 
 <div align="left">
   <h3>Web</h3>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
@@ -67,7 +66,6 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
  <h3>Social</h3>
  <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 </div>
 
 ###
