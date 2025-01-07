@@ -17,7 +17,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 * **BTC**: bc1q4qr9486j7ymjvyf5fqc6tzsfj5fk6698x9swvz
 
 <div align="center">
-    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/c2tpbGxz/zerowax.png?r=fs&h=64&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=64" alt="Cyberpunk fonts"></a></h1>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/c2tpbGw/zerowax.png?r=fs&h=64&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=64" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 ###
