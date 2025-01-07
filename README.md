@@ -22,11 +22,11 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<img align="right" height="700" src="banner.jpg"/>
+<img align="right" height="750" src="banner.jpg"/>
 
 ###
 
-<div align="center">
+<div align="left">
   <h3>Web</h3>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white"><br>
@@ -37,7 +37,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<div align="center">
+<div align="left">
   <h3>Languages</h3> 
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
@@ -46,7 +46,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ####
 
-<div align="center">
+<div align="left">
   <h3>OS</h3>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white"><br>
@@ -55,13 +55,21 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<div align="center">
+<div align="left">
   <h3>IDE'S</h3>
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
-   <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white">
 </div>
 
 ###
+
+<div align="left">
+ <h3>Social</h3>
+ <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
+</div>
+
 
 > Obs: Talvez possa parecer suspeito mas eu não ofereço nenhum tipo de serviço ilegal e desencentivo atos que infligem a legislação de nosso país.
 <hr>
