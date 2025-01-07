@@ -22,7 +22,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<img align="right" height="780" src="banner.jpg"/>
+<img align="right" height="700" src="banner.jpg"/>
 
 ###
 
@@ -59,14 +59,6 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
   <h3>IDE'S</h3>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><br>
    <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white">
-</div>
-
-###
-
-<div align="center">
-  <h3>Social</h3>
-  <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
 </div>
 
 ###
