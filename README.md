@@ -22,7 +22,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<img align="right" height="850" height="745" src="banner.jpg"/>
+<img align="right" height="850" src="banner.jpg"/>
 
 ###
 
