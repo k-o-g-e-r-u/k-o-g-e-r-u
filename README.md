@@ -22,7 +22,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 ###
 
-<img align="right" height="750" src="banner.jpg"/>
+<img align="right" height="820" src="banner.jpg"/>
 
 ###
 
@@ -70,6 +70,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 </div>
 
+###
 
 > Obs: Talvez possa parecer suspeito mas eu não ofereço nenhum tipo de serviço ilegal e desencentivo atos que infligem a legislação de nosso país.
 <hr>
