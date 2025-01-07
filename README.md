@@ -1,7 +1,7 @@
 <div class="content">
  
 <div align="center">
-    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/a29nZXJ1/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a></h1>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/a29nZXJ1/zerowax.png?r=fs&h=80&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=80" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 Um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração das mesmas. Atualmente eu estou em ínicio de carreira e pretendo oferecer por hora meus serviços como freelancer de desenvolvimento de sites e de correção de possíveis vulnerabilidades.
@@ -17,7 +17,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 * **BTC**: bc1q4qr9486j7ymjvyf5fqc6tzsfj5fk6698x9swvz
 
 <div align="center">
-    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/c2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a></h1>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/c2tpbGxz/zerowax.png?r=fs&h=68&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=68" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 ###
