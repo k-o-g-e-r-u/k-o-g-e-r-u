@@ -4,7 +4,7 @@
 <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/GOPdO/MGE0ZTA3NzcxOGNjNGFjMGJhZGZjZWM2ZDVkYmVjNTAudHRm/a29nZXJ1/sdglitchrobotdemo.png?r=fs&h=68&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=68" alt="Cyberpunk fonts"></a></h1>
 </div>
 
-Um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração das mesmas. Atualmente eu estou em ínicio de carreira e pretendo oferecer por hora meus serviços como freelancer de desenvolvimento de sites e de correção de possíveis vulnerabilidades.
+Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração das mesmas. Atualmente eu estou em ínicio de carreira e pretendo oferecer por hora meus serviços como freelancer de desenvolvimento de sites e de correção de possíveis vulnerabilidades.
 
 Para a preservação da minha privacidade eu estou aceitando apenas **satoshis** como forma de pagamento, mas
 caso você não tenha como comprar satoshis, poderemos negociar uma transição via pix.
