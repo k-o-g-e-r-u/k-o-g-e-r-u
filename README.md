@@ -1,7 +1,7 @@
 <div class="content">
  
 <div align="center">
-    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/S09HRVJV/zerowax.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Cyberpunk fonts"></a></h1>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/lg97d/OGNhMDVjZTA2M2VmNDZhNTk4Y2IzZTBiZGUxOTdlZDkub3Rm/S09HRVJV/cyberway-riders.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 Um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração das mesmas. Atualmente eu estou em ínicio de carreira e pretendo oferecer por hora meus serviços como freelancer de desenvolvimento de sites e de correção de possíveis vulnerabilidades.
@@ -12,11 +12,12 @@ caso você não tenha como comprar satoshis, poderemos negociar uma transição 
 E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o link do meu site com os meus projetos e os meus artigos junto de mais algumas informações.
 
 
-* **BTC**:
+
 * **Discord**: pa_pa_pa_paranoia
+* **BTC**: bc1q4qr9486j7ymjvyf5fqc6tzsfj5fk6698x9swvz
 
 <div align="center">
-    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/yYGam/NjA5ZmIxYjJiZTFhNDcwYmJhYmUwYjdkMGM3ZmRjYTQudHRm/U2tpbGxz/zerowax.png?r=fs&h=54&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=54" alt="Cyberpunk fonts"></a></h1>
+    <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/lg97d/OGNhMDVjZTA2M2VmNDZhNTk4Y2IzZTBiZGUxOTdlZDkub3Rm/U0tJTExT/cyberway-riders.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=65" alt="Cyberpunk fonts"></a></h1>
 </div>
 
 ###
