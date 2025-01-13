@@ -13,7 +13,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 
 
-* **Discord**: pa_pa_pa_paranoia
+* **Discord**: shiro_kogeru
   
 <div align="center">
 <h1><a href="https://www.fontspace.com/category/cyberpunk"><img src="https://see.fontimg.com/api/rf5/GOPdO/MGE0ZTA3NzcxOGNjNGFjMGJhZGZjZWM2ZDVkYmVjNTAudHRm/c2tpbGxz/sdglitchrobotdemo.png?r=fs&h=68&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=68" alt="Cyberpunk fonts"></a></h1>
