@@ -10,33 +10,33 @@ Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesqu
 
 ##
 
-<div style="align: left;">
+<div style="align: center;">
 <h2>Social</h2>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
 </div>
 
-<div style="align: left;">
+<div style="align: center;">
   <h2>Languages</h2> 
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
-<div style="align: left;">
+<div style="align: center;">
   <h2>IDE'S</h2>
   <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-<div style="align: left;">
+<div style="align: center;">
   <h2>OS</h2>
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white">
 </div>
 
-<div style="align: left;">
+<div style="align: center;">
   <h2>Web</h2>
   <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
@@ -46,7 +46,7 @@ Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesqu
 
 ###
 
-<img align="center" src="160157.png"/>
+<img style="align: right;" src="160157.png"/>
 
 ###
 
