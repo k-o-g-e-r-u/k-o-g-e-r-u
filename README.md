@@ -46,7 +46,7 @@ Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesqu
 
 ###
 
-<img style="align: right;" src="160157.png"/>
+<img style="align: right; width: 500px; height= 200px;" src="160157.png"/>
 
 ###
 
