@@ -19,7 +19,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 <div>
   <div align="center">
     <h1><a href="https://www.fontspace.com/category/futuristic"><img src="https://see.fontimg.com/api/rf5/PVK0B/MGJlOWJhZTJlZjJiNDFjNmIzMjBlODc4ZTdhYjc1NzUub3Rm/c2tpbGxz/ankh-sanctuary.png?r=fs&h=62&w=2000&fg=FFFFFF&bg=FFFFFF&tb=1&s=31" alt="Futuristic fonts"></a></h1>
-    
+  <div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_red&show_icons=true)
@@ -31,4 +31,3 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
 
 > Obs: Talvez possa parecer suspeito mas eu não ofereço nenhum tipo de serviço ilegal e desencentivo atos que infligem a legislação de nosso país.
 <hr>
-</div>
