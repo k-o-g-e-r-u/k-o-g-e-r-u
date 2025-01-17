@@ -20,41 +20,9 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
   <div align="center">
     <h1><a href="https://www.fontspace.com/category/futuristic"><img src="https://see.fontimg.com/api/rf5/PVK0B/MGJlOWJhZTJlZjJiNDFjNmIzMjBlODc4ZTdhYjc1NzUub3Rm/c2tpbGxz/ankh-sanctuary.png?r=fs&h=62&w=2000&fg=FFFFFF&bg=FFFFFF&tb=1&s=31" alt="Futuristic fonts"></a></h1>
     
-  <div style="display: flex; margin;">
-    <div style="margin-right: 30px; margin-left: 80px;">
-    <h2>Social</h2>
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
-    </div>
-    <div style="margin-right: 30px;">
-      <h2>Languages</h2> 
-      <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    </div>
 
-  <div style="margin-right: 30px;">
-    <h2>IDE'S</h2>
-    <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  </div>
-
-  <div style="margin-right: 30px;">
-    <h2>OS</h2>
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white">
-  </div>
-
-  <div>
-    <h2>Web</h2>
-    <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
-  </div>
-</div>
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_red&show_icons=true)
 ###
 
 <img align="center" src="17 125740.png"/>
