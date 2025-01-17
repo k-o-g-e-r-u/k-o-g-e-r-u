@@ -6,7 +6,7 @@
 
 Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesquisas sobre vulnerabilidades junto com ferramentas para a exploração das mesmas. Atualmente eu estou em ínicio de carreira e pretendo oferecer por hora meus serviços como freelancer de desenvolvimento de sites e de correção de possíveis vulnerabilidades.
 
-* **Discord**: shiro_kogeru
+**Discord**: shiro_kogeru
 
 ##
 
@@ -26,20 +26,20 @@ Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesqu
 </div>
 
 <div align="center">
-  <h2>IDE'S</h2>
+  <h3>IDE'S</h3>
   <img src="https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=PyCharm&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 <div align="center">
-  <h2>OS</h2>
+  <h3>OS</h3>
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=white">
 </div>
 
 <div align="center">
-  <h2>Web</h2>
+  <h3>Web</h3>
   <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white"><br>
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white"><br>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white"><br>
