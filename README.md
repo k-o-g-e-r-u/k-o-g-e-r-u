@@ -22,7 +22,7 @@ E para a verificação de veracidade em meu trabalho, eu deixarei na minha bio o
   <div>
 
  ![My stats](https://github-readme-stats.vercel.app/api?username=k-o-g-e-r-u&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-o-g-e-r-u&layout=compact&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-o-g-e-r-u&layout=donut&theme=dark&show_icons=true)
 ###
 
 <img align="center" src="17 125740.png"/>
