@@ -10,14 +10,16 @@ Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesqu
 
 ##
 
+<img align="right"  src="160157.png"/>
+
 <div align="center">
-<h2>Social</h2>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
+  <h3>Social</h3>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white"><br>
 </div>
 
 <div align="center">
-  <h2>Languages</h2> 
+  <h3>Languages</h3> 
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -44,9 +46,6 @@ Sou um entusiasta em cyber segurança e pretendo trazer diversos artigos e pesqu
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-###
-
-<img align="left"  src="160157.png"/>
 
 ###
 
